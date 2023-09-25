@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VishwagUpMyranks
 - 👀 I’m interested in App Development
-- 🌱 I’m currently learning to master Flutter
-- 💞️ I’m looking to collaborate on Flutter app projects
+- 🌱 I’m currently learning to master Mobile App Development
+- 💞️ I’m also looking to collaborate on Flutter app projects
 - 📫 
 
 <!---
